@@ -1,5 +1,6 @@
 Here is What I'm Working On! 👋
-![Uploading 1.gif…]()
+
+1.gif
 
 
 - 🔭 I’m currently working on https://bigappcompany.com/
