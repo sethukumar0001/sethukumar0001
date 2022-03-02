@@ -3,17 +3,18 @@ Here is What I'm Working On! 👋
 - 🔭 I’m currently working on Reactjs and Nextjs
 - 🌱 I’m currently learning : 
 
-     React Native
-     Flutter
+    -> React Native
+    -> Flutter
          
 
 💬 Ask me about :
  
-    Reactjs
-    Nextjs
-    Javascript
-    GraphQL
-    Meteorjs 
+   -> Reactjs
+   -> Nextjs
+   -> Javascript
+   -> Meteorjs 
+   -> GraphQL
+   -> Rest API
     
  📫 How to reach me: 
  
