@@ -4,16 +4,22 @@ Here is What I'm Working On! 👋
 - 🌱 I’m currently learning : 
 
     -> React Native
+    
     -> Flutter
          
 
 💬 Ask me about :
  
    -> Reactjs
+   
    -> Nextjs
+   
    -> Javascript
+   
    -> Meteorjs 
+   
    -> GraphQL
+   
    -> Rest API
     
  📫 How to reach me: 
