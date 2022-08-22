@@ -5,7 +5,7 @@ Here is What I'm Working On! 👋
 
     - React Native
     
-    - Flutter
+    - Nest JS
          
 
 💬 Ask me about :
