@@ -4,9 +4,6 @@ Here is What I'm Working On! 👋
 - 🌱 I’m currently learning : 
 
     - React Native
-    
-    - Nest JS
-         
 
 💬 Ask me about :
  
