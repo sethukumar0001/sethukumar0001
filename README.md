@@ -12,6 +12,8 @@ Here is What I'm Working On! 👋
    - Reactjs
    
    - Nextjs
+
+   - HTML and SASS/SCSS
    
    - Javascript
  
