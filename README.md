@@ -1,11 +1,13 @@
 Here is What I'm Working On! 👋
 
-- 🔭 I’m currently working on Reactjs and Nextjs
-- 🌱 I’m currently learning : 
+- 🔭 I’m currently working on
 
-    - React Native
+    - Reactjs
     
-    - Flutter
+    - Nextjs
+    
+    - React Native
+
 
 💬 Ask me about :
  
