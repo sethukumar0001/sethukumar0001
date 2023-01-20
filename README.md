@@ -2,11 +2,11 @@ Here is What I'm Working On! 👋
 
 - 🔭 I’m currently working on
 
-    - Reactjs
+    - [![react.png](https://i.postimg.cc/1zp1jcq8/react.png)](https://postimg.cc/R3VY3tGm)
     
-    - Nextjs
+    - [![nextjs.png](https://i.postimg.cc/G3vTxZtR/nextjs.png)](https://postimg.cc/ThYPRNnN)
     
-    - React Native
+    - [![react-native-logo.png](https://i.postimg.cc/mr3KwLvM/react-native-logo.png)](https://postimg.cc/VS67s8LL)
 
 
 💬 Ask me about :
