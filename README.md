@@ -36,3 +36,11 @@ Here is What I'm Working On! 👋
  👯 I’m looking to collaborate with: Everyone 🤗
 
  🤔 I’m looking for help with: Feedbacks / Ideas
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
