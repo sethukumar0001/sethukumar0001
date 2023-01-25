@@ -1,24 +1,25 @@
-Here is What I'm Working On! 👋
+<h1 align="center">Hi 👋, I'm Sethu Kumar</h1>
+<h3 align="center">A Web and Mobile developer</h3>
+From Bangalore 
 
-🔭 I’m currently working on
+- 🔭 I’m currently working on **Next JS, React JS and React Native**
 
-   [![react.png](https://i.postimg.cc/1zp1jcq8/react.png)](https://postimg.cc/R3VY3tGm) [![react-native-logo.png](https://i.postimg.cc/mr3KwLvM/react-native-logo.png)](https://postimg.cc/VS67s8LL) [![nextjs.png](https://i.postimg.cc/G3vTxZtR/nextjs.png)](https://postimg.cc/ThYPRNnN) 
+- 👯 I’m looking to collaborate with everyone
+
+- 👨‍💻 All of my projects are available at [https://github.com/sethukumar0001](https://github.com/sethukumar0001)
+
+- 📫 How to reach me **sethukumar0001@gmail.com**
 
 
-💬 Ask me about :
+💬 Languages and Tools: :
  
-  [![react.png](https://i.postimg.cc/1zp1jcq8/react.png)](https://postimg.cc/R3VY3tGm) [![react-native-logo.png](https://i.postimg.cc/mr3KwLvM/react-native-logo.png)](https://postimg.cc/VS67s8LL) [![nextjs.png](https://i.postimg.cc/G3vTxZtR/nextjs.png)](https://postimg.cc/ThYPRNnN) [![html.png](https://i.postimg.cc/C5zWgW1x/html.png)](https://postimg.cc/qN6jYdwP) [![css.png](https://i.postimg.cc/fWcH3W4Q/css.png)](https://postimg.cc/0rNGFs2V) [![sass.png](https://i.postimg.cc/GtdxPY0w/sass.png)](https://postimg.cc/4HR8v2VD) [![js.png](https://i.postimg.cc/pLq4mWFL/js.png)](https://postimg.cc/ftqdDVTB) [![ts.png](https://i.postimg.cc/SNxGJSQR/ts.png)](https://postimg.cc/gr1h7PZb) [![rest.png](https://i.postimg.cc/x1TjwZPW/rest.png)](https://postimg.cc/pp4t8q4Z) [![graphql.png](https://i.postimg.cc/RhspNqj1/graphql.png)](https://postimg.cc/QK7JzNNV)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="40" width="40"/>
+          
+      
    
-    
- 📫 How to reach me: 
- 
-     Email : sethukumar0001@gmail.com
-     
 
- 👯 I’m looking to collaborate with: Everyone 🤗
-
-
-<!-- <a href=#><img src="contributions.svg"></a> -->
+<a href=#><img src="contributions.svg"></a>
 
 <!-- <p align="center"> 
   Visitor count<br>
