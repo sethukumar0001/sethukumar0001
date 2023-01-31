@@ -2,7 +2,7 @@
 <h3 align="center">A Web and Mobile developer</h3>
 From Bangalore 
 
-- 🔭 I’m currently working on **Next JS, React JS and React Native**
+- 🔭 I’m currently working on **React JS, React Native and Next JS**
 
 - 👯 I’m looking to collaborate with everyone
 
