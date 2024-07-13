@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sethu Kumar</h1>
-<h3 align="center">A Web and Mobile developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 From Bangalore 
 
-- 🔭 I’m currently working on **React JS, React Native and Next JS**
+- 🔭 I’m currently working on **ReactJS, React Native, NextJS and NestJS**
 
 - 👯 I’m looking to collaborate with everyone
 
